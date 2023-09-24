@@ -3,7 +3,7 @@
 Regular expressions (regex) are powerful tools for pattern matching and text manipulation. In this tutorial, I'll focus on a fundamental aspect of regex: grouping constructs and capturing. I'll break down each component of the expression, explaining what it does and how it can be used effectively.
 
 ## Summary
-We'll delve into the regex ([a-zA-Z]+) (\d+), a simple pattern that captures a sequence of letters followed by a sequence of digits, both separated by a space. This regex utilizes grouping constructs to capture specific parts of the input text.
+I'll delve into the regex ([a-zA-Z]+) (\d+), a simple pattern that captures a sequence of letters followed by a sequence of digits, both separated by a space. This regex utilizes grouping constructs to capture specific parts of the input text.
 
 ## Table of Contents
 - [Anchors](#anchors)
